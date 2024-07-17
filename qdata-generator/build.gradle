@@ -1,0 +1,8 @@
+
+dependencies {
+    implementation project(':qdata-core')
+    implementation 'commons-codec:commons-codec:1.16.1'
+    implementation 'org.dom4j:dom4j:2.1.4'
+    implementation 'org.freemarker:freemarker:2.3.30'
+    implementation 'com.alibaba:fastjson:1.2.83'
+}

@@ -1,0 +1,5 @@
+dependencies {
+    api project(':qdata-core')
+    api 'org.mongodb:mongodb-driver-sync:4.10.0'
+}
+

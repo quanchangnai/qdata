@@ -1,0 +1,5 @@
+rootProject.name = 'qdata'
+include 'qdata-core'
+include 'qdata-mongo'
+include 'qdata-generator'
+
